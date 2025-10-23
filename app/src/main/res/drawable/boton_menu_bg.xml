@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Fondo blanco, cámbialo si prefieres otro color -->
+    <stroke android:width="3dp" android:color="#CCCCCC"/> <!-- Color y grosor del borde del contorno -->
+    <corners android:radius="35dp"/> <!-- Muy redondeado, ajusta si lo quieres más ovalado/circular -->
+    <size android:width="120dp" android:height="80dp"/> <!-- Tamaño igual al botón -->
+</shape>
